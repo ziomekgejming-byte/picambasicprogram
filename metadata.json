@@ -1,0 +1,10 @@
+{
+  "name": "PiCam WebRTC Streamer",
+  "description": "Autonomiczna platforma do transmisji wideo w czasie rzeczywistym z Raspberry Pi Camera z ultraniskim opóźnieniem przez WebRTC.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
